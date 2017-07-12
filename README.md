@@ -4,6 +4,9 @@
 
 > A FileMaker Adapter For Feathers.js.
 
+## Clone
+This is a clone work around for NPM until a PR is merged.
+
 ## About
 This is a FileMaker Adapter for feathers.js. It makes it trivial to create a feathers service for any FileMaker Layout.  For non FileMaker people, a layout is a Table with a defined set of fields, and related records.
 

@@ -1,8 +1,8 @@
 {
-  "name": "feathers-filemaker",
+  "name": "deng-feathers-filemaker",
   "description": "Filemaker adapter for feathers.js",
   "version": "0.6.1",
-  "homepage": "https://github.com/geistinteractive/feathers-filemaker",
+  "homepage": "https://github.com/delfsengineering/deng-feathers-filemaker",
   "main": "lib/",
   "keywords": [
     "FileMaker",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/geistinteractive/feathers-filemaker.git"
+    "url": "git://github.com/delfsengineering/deng-feathers-filemaker.git"
   },
   "author": {
     "name": "Todd Geist",
@@ -23,7 +23,7 @@
     "todd@geistinteractive.com"
   ],
   "bugs": {
-    "url": "https://github.com/geistinteractive/feathers-filemaker/issues"
+    "url": "https://github.com/delfsengineering/deng-feathers-filemaker/issues"
   },
   "engines": {
     "node": ">= 0.12.0"

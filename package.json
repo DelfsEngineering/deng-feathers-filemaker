@@ -1,7 +1,7 @@
 {
   "name": "deng-feathers-filemaker",
   "description": "Filemaker adapter for feathers.js",
-  "version": "0.8.0",
+  "version": "0.6.1",
   "homepage": "https://github.com/delfsengineering/deng-feathers-filemaker",
   "main": "lib/",
   "keywords": [
